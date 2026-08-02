@@ -43,6 +43,7 @@ pkg update
 pkg install python
 pkg install iproute2
 pkg install inetutils
+pkg install git
 ```
 
 `iproute2` diye `ip route` command ashe (gateway ber korar jonno). `inetutils` diye `ping` command ashe, na thakle kichu Termux setup-e ping kaj nao korte pare.
